@@ -15,6 +15,7 @@ this code debug only work in intel lij , thanks.
 我就问我的2017年的 东西 浏阳2017年又能吸收几个？那些 java handler ， EDA， springboot batch，
 sonar qube 一键test执行脚本。2017年12月被回国，估计我2013年qq push的 ETL unicorn，2012年的我qq push的 计算机视觉java 卷积代码
 ，14年 qq push极速左右比对排序，和2009年qq视频的 LRC电感微分公式。 被 qq 吸收了， 而这里只有一个LRC电感微分公式是jpsir写在黑板上 被我笔记的。
+其它这几年我拿下完整著作权集和 13万字口供论述，35万字919版本论著和 15万字 我20年cv 溯源描述。
 
 罗瑶光
 
