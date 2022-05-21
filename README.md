@@ -13,7 +13,8 @@ this code debug only work in intel lij , thanks.
 的分子式第九章元基解码 版权，
 
 我就问我的2017年的 东西 浏阳2017年又能吸收几个？那些 java handler ， EDA， springboot batch，
-sonar qube 一键test执行脚本。2017年12月被回国，估计我2013年qq push的 ETL unicorn，14年 qq push极速左右比对排序，和2009年qq视频的 LRC电感微分公式。
+sonar qube 一键test执行脚本。2017年12月被回国，估计我2013年qq push的 ETL unicorn，2012年的我qq push的 计算机视觉java 卷积代码
+，14年 qq push极速左右比对排序，和2009年qq视频的 LRC电感微分公式。
 被 qq 吸收了，
 
 罗瑶光
